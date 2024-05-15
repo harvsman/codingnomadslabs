@@ -6,3 +6,9 @@
 # Break this task up into a couple of steps of pseudocode
 # and write the pseudocode below in code comments.
 # You don't need to write any functional code, just map out the steps.
+
+
+##save an array of kittens names in a variable
+##loop through the array
+##print a message that each kitten is cute
+##print a message that each kitten is ready for adoption
